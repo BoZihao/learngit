@@ -3,3 +3,4 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks change of file.
 I made a different change.
+When conflict with your co-worker, one should check that by hand.
